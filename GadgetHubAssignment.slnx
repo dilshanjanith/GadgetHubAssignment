@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GadgetHubClient/GadgetHubClient.csproj" Id="3454f0c9-3424-4111-a679-50f8c3ac5422" />
+  <Project Path="GadgetHubService/GadgetHubService.csproj" Id="0d480857-0609-4f7a-9910-e5849532f338" />
+</Solution>
