@@ -9,7 +9,6 @@ namespace GadgetHubService.Models
         public string Category { get; set; }
         public decimal Price { get; set; }
         public bool IsActive { get; set; }
-
         public int Quantity { get; set; }
     }
 }

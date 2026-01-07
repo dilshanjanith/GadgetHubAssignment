@@ -11,12 +11,10 @@ namespace GadgetHubService.Models
         public string Status { get; set; }
         public decimal PriceOffered { get; set; }
         public int EstimatedDeliveryDays { get; set; }
-
         public int RealStock { get; set; }
         public string CustomerName { get; set; } 
         public string ProductName { get; set; } 
         public int RequestedQty { get; set; } 
-
         public bool IsWinner { get; set; } 
     }
 }
